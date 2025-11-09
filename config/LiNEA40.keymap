@@ -68,7 +68,7 @@
 
 &zip_temp_layer {
     require-prior-idol-ms = <200>;
-}
+};
 
 
 / {
