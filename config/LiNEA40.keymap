@@ -66,11 +66,6 @@
     input-processors = <&zip_temp_layer 5 10000>;
 };
 
-&zip_temp_layer {
-    require-prior-idol-ms = <200>;
-};
-
-
 / {
     combos {
         compatible = "zmk,combos";
