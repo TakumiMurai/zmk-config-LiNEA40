@@ -78,5 +78,5 @@
         18 // L
         27 // M
     >;
-    require-prior-idle-ms = <200>;
+    require-prior-idle-ms = <300>;
 };
